@@ -8,7 +8,7 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <picture xsi:type="core:PictureRef">
-    <picture>CommonPicture.ВКМ_ОбслуживаниеКлиентовКартинка</picture>
+    <picture>CommonPicture.ВКМ_РаботаУслугиПроизводство</picture>
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>Constant.ВКМ_ТокенТелеграмБота</content>

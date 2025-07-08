@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Управление ITФирмой</value>
   </synonym>
+  <comment>DIPLOMONECMID53_VANCHINAM</comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="76aa584c-a8a0-4aad-b109-d17c4a2a1af5"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="f20f6503-1e59-45bc-a50a-b8901302485d"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="3fb95876-323d-4ff4-9b21-39c88dd3ff69"/>
@@ -19,7 +20,7 @@
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <vendor>ООО Нетология</vendor>
-  <version>1.0.1.2</version>
+  <version>1.0.0.1</version>
   <reportsVariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</reportsVariantsStorage>
   <defaultReportForm>CommonForm.ФормаОтчета</defaultReportForm>
   <defaultReportVariantForm>CommonForm.ФормаВариантаОтчета</defaultReportVariantForm>
@@ -530,6 +531,7 @@
   <commonPictures>CommonPicture.ЭлектронноеПисьмо</commonPictures>
   <commonPictures>CommonPicture.ЯндексКарты</commonPictures>
   <commonPictures>CommonPicture.ВКМ_ОбслуживаниеКлиентовКартинка</commonPictures>
+  <commonPictures>CommonPicture.ВКМ_РаботаУслугиПроизводство</commonPictures>
   <sessionParameters>SessionParameter.АвторизованныйПользователь</sessionParameters>
   <sessionParameters>SessionParameter.БуферОбмена</sessionParameters>
   <sessionParameters>SessionParameter.ВерсииШаблоновОграниченияДоступа</sessionParameters>
